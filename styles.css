@@ -66,6 +66,22 @@ h1{
     color: #FFFFFF;
     box-shadow: 0px 10px 20px rgba(137, 229, 199, 0.503305), inset 0px -3px 0px rgba(0, 0, 0, 0.151333);
 }
+.button1:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
+.button2:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
+.button3:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
+.button4:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
 .button2{
     width: 311px;
     height: 56px;
@@ -338,7 +354,6 @@ li:hover{
         flex-direction: row;
         justify-content: space-around;
         align-items: center;
-
     }
     ul{
         display: grid;
